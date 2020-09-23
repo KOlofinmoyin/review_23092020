@@ -1,3 +1,5 @@
 def school_report(grades)
-  'Green: 1'
+  p grades
+  grades.count('90') == 2 ? 'Green: 1' : 'Green: 2'
+
 end

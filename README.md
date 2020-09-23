@@ -20,6 +20,7 @@ Would like a summary report based on the strings. Software will be used by teach
 ### Input                       |                  Output
 ========================================================================
 (done)"90"                            | "Green: 1"
+(done)"90, 90"                            | "Green: 2"
 "10, 20, 50, 90"                | "Green: 1\nAmber: 1\nRed: 2"
 ""                              | Error: "no grades input"
 ```
