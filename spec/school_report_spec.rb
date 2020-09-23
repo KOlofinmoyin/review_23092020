@@ -1,0 +1,1 @@
+require 'school_report'
